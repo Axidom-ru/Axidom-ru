@@ -10,4 +10,4 @@ Latest YouTube Vidios
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=2aab20)
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=python&logoColor=27A0D9)(https://t.me/axidom)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=python&logoColor=27A0D9)](https://t.me/axidom)
