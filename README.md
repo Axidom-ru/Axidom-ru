@@ -6,7 +6,8 @@ About me
 
 Latest YouTube Vidios
 
-# Languages and Tools
+### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=2aab20)
 
-Follow Me
+### Follow Me
+![Telegram]((https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=python&logoColor=27A0D9))
