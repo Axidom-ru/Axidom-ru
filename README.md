@@ -15,7 +15,6 @@
 
 ### About Me :
 I am new to development from Russia. :ru:
-- :smiling_face_with_tear: My programs are not worthy to be published. I'm ashamed of them.
 - :books: I try to learn.
 
 ---
